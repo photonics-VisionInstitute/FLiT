@@ -9,7 +9,7 @@ Specifically, the two main scripts are:
 
  Additionally,  we provide a home-made GUI based application to control the Meadowlark SLM model used in the paper. The software is based on the SDK provided by the manufacturer  has an optimized graphic interface and some additional features that ease the SLM adressing for photostimulation pipelines. 
 
-THe provided material, although conceived and applicable under a specific hardware configuraton,  could be easily adapted and could provide a good starting point  to  help user to setup their own pipeline based on FLiT photostimulation. 
+The provided material, although conceived and applicable under a specific hardware configuraton,  could be easily adapted and could provide a good starting point  to  help user to setup their own pipeline based on FLiT photostimulation. 
 Do not hesitate to contact us for any questions. 
 
 Dimitrii Tanese (dimitrii.tanese@inserm.fr)
