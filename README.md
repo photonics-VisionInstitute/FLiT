@@ -1,6 +1,6 @@
 # FLiT
 
-# Here we provide some basic MATLAB codes to implement FLiT stimulation. The simplified version of the script allow to control and syncronize the galvomirro the  and laser power attenuator, to implement basic calibrations, define stimulation parameters and pipelines and run  stumaltion events. 
+Here we provide some basic MATLAB codes to implement FLiT stimulation. The simplified version of the script allow to control and syncronize the galvomirro the  and laser power attenuator, to implement basic calibrations, define stimulation parameters and pipelines and run  stumaltion events. 
 
 # Specifically, the two main scripts are: 
 - FLiTcalibration.m : - to define basic setup parameter and hardware used, to implment and defien calbiration of diffraction effcicency, tiled holograms efficiency, and spot spatial calibrations. 
