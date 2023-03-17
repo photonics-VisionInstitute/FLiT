@@ -7,7 +7,7 @@ Specifically, the two main scripts are:
 - FLiT_stimulation_MAIN: to define the stimulation patterns (nameley, the coordiantes of the spots and their distribution over the tiled holograms), set stimulation parameters, generate the proper waveform to drive galvos and power control and perform FLiT photostimulation.  The current version of the script implement a protocol of cyclic stimulation, but can be easy adapated to other photostimualtion modalities. 
 
 
- Additionally,  we provide a home-made GUI based application to control the Meadowlark SLM model used in the paper. The software is based on the SDK provided by the manufacturer  has an optimized graphic interface and some additional features that ease the SLM adressing for photostimulation pipelines. 
+ Additionally,  we provide a home-made GUI based application called [meadowlarkFeeder](https://mycore.cnrs.fr/index.php/s/vsf6CSCaFQgWOCE) to control the Meadowlark SLM model used in the paper. The software is based on the SDK provided by the manufacturer  has an optimized graphic interface and some additional features that ease the SLM adressing for photostimulation pipelines. Link to downwload : 
 
 The provided material, although conceived and applicable under a specific hardware configuration,  could be easily adapted and could provide a good starting point  to  help user to setup their own pipeline based on FLiT photostimulation. 
 Do not hesitate to contact us for any questions. 
